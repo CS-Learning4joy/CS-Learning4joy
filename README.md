@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi, My Nmae is Zixuan Xia(Summer) 👋
 
 
 
-Here are some ideas to get you started:
+Here are my brief introduction:
 
-- 🔭 I’m currently studying in Xi'an Jiaotong University.
+- 🍻 Junior at 🇨🇳 [XJTU](https://www.xjtu.edu.cn), _BSc in Software Engineering
+- 🔭 Java/Python
 - 🌱 I’m currently interested in deep learning and optimization algorithms.
 - 📫 How to reach me: E-mail Address: xxiazixuan824@gmail.com
+- 
 - ⚡ Fun fact: I like playing basketball and my favourite basketball star is Kobe Bryant. 
