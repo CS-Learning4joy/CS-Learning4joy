@@ -8,6 +8,6 @@
 
 - 🍻 Undergraduate at 🇨🇳 [XJTU](https://www.xjtu.edu.cn), _BSc in Software Engineering
 - 🔭 Java/Python
-- 🌱 I’m currently interested in deep learning and optimization algorithms.
+- 🌱 I’m currently interested in deep learning and system engineering.
 - 📫 How to reach me: E-mail Address: xxiazixuan824@gmail.com
 - ⚡ Fun fact: I like playing basketball and my favourite basketball star is Kobe Bryant. 
