@@ -11,3 +11,7 @@
 - 🌱 I hope to study computer science through some high-quality open courses at some stages in the future
 - 📫 How to reach me: E-mail Address: xxiazixuan824@gmail.com
 - ⚡ Fun fact: I like playing basketball and my favourite basketball star is Kobe Bryant. 
+
+<div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sotaBrewer824&theme=radical" /> </div>
+
+<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
