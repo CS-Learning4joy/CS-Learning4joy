@@ -7,7 +7,6 @@
 ## brief introduction:
 
 - 🍻 Master at 🇨🇭 [UniBE](https://www.unibe.ch/index_eng.html/), _MSc in Computer Science
-- 
 - 🔭 Java/Python/C++
 - 🌱 I hope to study computer science through some high-quality open courses at some stages in the future
 - 📫 How to reach me: E-mail Address: xxiazixuan824@gmail.com
